@@ -1,6 +1,8 @@
 # mutual_total
 Calculates the Mutual Information Index M and Theil's Entropy Index H use mutual_total (segregation) With (In) R Software
 
+https://www.youtube.com/watch?v=CfcPbVOATDw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
